@@ -56,6 +56,22 @@ Topics studied:
 - Jupyter Notebook
 - Machine learning algorithms and evaluation techniques
 
+  📚 Course Notes
+
+Detailed notes and key concepts from the three courses:
+
+1. "Supervised Machine Learning: Regression and Classification" (course-notes/01-supervised-learning.md)
+   
+   - Linear regression, logistic regression, gradient descent, and regularization.
+
+2. "Advanced Learning Algorithms" (course-notes/02-advanced-learning-algorithms.md)
+   
+   - Neural networks, backpropagation, TensorFlow, decision trees, and ensemble methods.
+
+3. "Unsupervised Learning, Recommenders, Reinforcement Learning" (course-notes/03-unsupervised-learning-and-recommenders.md)
+   
+   - K-means clustering, anomaly detection, recommender systems, and reinforcement learning.
+
 🚀 Independent Projects
 
 I will document independent projects that apply the concepts learned in this specialization.
